@@ -16,9 +16,9 @@ Setting up Push Notifications using Taplytics is simple. Follow the steps below 
 
 Before you can use Taplytics push notifications, you need to upload your **Apple Push Notification** certificates. If you don’t already have your certificates created, don't worry. We will help you through this three step process.
 
-...1. [Create a certificate request](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#request)
-...2. [Generate your push certificates](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#generate)
-...3. [Upload your certificates to Taplytics](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#upload)
+1. [Create a certificate request](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#request)
+2. [Generate your push certificates](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#generate)
+3. [Upload your certificates to Taplytics](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#upload)
 
 ## Create a certificate request
 
