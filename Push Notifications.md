@@ -16,9 +16,9 @@ Setting up Push Notifications using Taplytics is simple. Follow the steps below 
 
 Before you can use Taplytics push notifications, you need to upload your **Apple Push Notification** certificates. If you don’t already have your certificates created, don't worry. We will help you through this three step process.
 
-1. [Create a certificate request](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#request)
-2. [Generate your push certificates](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#generate)
-3. [Upload your certificates to Taplytics](https://taplytics.com/docs/guides/push-notifications/apple-push-certificates#upload)
+1. Create a certificate request
+2. Generate your push certificates
+3. Upload your certificates to Taplytics
 
 ## Create a certificate request
 
@@ -105,4 +105,23 @@ Great Job! You can now send push notifications using Taplytics!
 
 # 2. Google Push Certificates
 
+### Upload your Google Push certificates so you can send push notifications using Taplytics.
 
+Before you can get started using Taplytics push notifications, we need to upload your Google Push Notification credentials.
+
+1. Getting your Google Credentials
+2. Upload your credentials to Taplytics
+
+## Getting your Google Credentials
+
+First, head over to the [Firebase Console](https://console.firebase.google.com/). If your project is already in Firebase, simply enter that project. Otherwise, click `CREATE NEW PROJECT`. Then navigate to your project's settings:
+
+![Firebaseconsole](https://github.com/taplytics/Taplytics-Android-SDK/blob/master/Google%20Certs/settings.png?raw=true)
+
+Keep this browser tab open and open up a Taplytics tab.
+
+## Uploading your Google Credentials
+
+Now, on your Taplytics project, navigate to your project Settings tab. On the left, you wll see a smaller tab for Push Notification Settings. Click that, then go down to the 'Google Cloud Messaging' section. In the input fields for 'Sender ID' and 'GCM API Key', enter the keys in the appropriate fields. Finally, click 'Save Credentials' and you're on your way to sending Push Notifications to Android!
+
+![GCMsettings](https://github.com/taplytics/Taplytics-Android-SDK/blob/master/Google%20Certs/upload.png?raw=true)
