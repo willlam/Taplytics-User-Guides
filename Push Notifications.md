@@ -98,7 +98,7 @@ Go to your Taplytics profile and navigate to the "Settings" tab where you will f
 
 Once the upload completes, your "Settings" screen will display both of your certificates.
 
-![uploadcomplete](https://taplytics.com/assets/docs/push/apple/success-push.png)
+![uploadcomplete](https://github.com/taplytics/Taplytics-User-Guides/blob/master/Image%20Assets/pushcertuploadsuccess.jpg?raw=true)
 
 Great Job! You can now send push notifications using Taplytics!
 
