@@ -94,7 +94,7 @@ If **Keychain Access** is giving you grief and your production certificate is no
 
 Go to your Taplytics profile and navigate to the "Settings" tab where you will find the **Push Notifications** settings. Click the upload button and select your development and production certificates to upload.
 
-![pushsettings](https://taplytics.com/assets/docs/push/apple/taplytics-upload.png)
+![pushsettings](https://github.com/taplytics/Taplytics-User-Guides/blob/master/Image%20Assets/Apple_Push_Certificate_Upload.jpg?raw=true)
 
 Once the upload completes, your "Settings" screen will display both of your certificates.
 
@@ -124,4 +124,4 @@ Keep this browser tab open and open up a Taplytics tab.
 
 Now, on your Taplytics project, navigate to your project Settings tab. On the left, you wll see a smaller tab for Push Notification Settings. Click that, then go down to the 'Google Cloud Messaging' section. In the input fields for 'Sender ID' and 'GCM API Key', enter the keys in the appropriate fields. Finally, click 'Save Credentials' and you're on your way to sending Push Notifications to Android!
 
-![GCMsettings](https://github.com/taplytics/Taplytics-Android-SDK/blob/master/Google%20Certs/upload.png?raw=true)
+![GCMsettings](https://github.com/taplytics/Taplytics-User-Guides/blob/master/Image%20Assets/Taplytics_Example_%E2%80%93_Overview_%E2%80%93_Firebase_console.jpg?raw=true)
